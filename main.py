@@ -1,11 +1,6 @@
-line01 = "****************************"
-line02 = "*         HELLO!!!         *"
-line03 = "*      WELCOME HERE!!      *"
-line04 = "*    What is your name?    *"
-name = ""
-print(line01)
-print(line02)
-print(line03)
-print(line04)
-print("*          " + input(name) + "            *")
-print("*      My name is Zer0     *")
+best_sentece = "Hello world"
+print(best_sentece)
+print(best_sentece.lower())
+print(best_sentece.upper())
+print(best_sentece.title())
+print(best_sentece.replace("world","AGH"))
